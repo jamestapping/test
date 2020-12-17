@@ -62,12 +62,20 @@
 				7D9CB881258B767400631D34 /* SceneDelegate.swift */,
 				7D9CB883258B767400631D34 /* ViewController.swift */,
 				7D9CB885258B767400631D34 /* Main.storyboard */,
-				7D9CB895258B78C700631D34 /* testFile.swift */,
+				7D9CB898258B794800631D34 /* TestFileGroup */,
 				7D9CB888258B767700631D34 /* Assets.xcassets */,
 				7D9CB88A258B767700631D34 /* LaunchScreen.storyboard */,
 				7D9CB88D258B767700631D34 /* Info.plist */,
 			);
 			path = GitTest;
+			sourceTree = "<group>";
+		};
+		7D9CB898258B794800631D34 /* TestFileGroup */ = {
+			isa = PBXGroup;
+			children = (
+				7D9CB895258B78C700631D34 /* testFile.swift */,
+			);
+			path = TestFileGroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
